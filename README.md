@@ -20,4 +20,4 @@
 - **Microsoft SQL Server**: SQL Server Managment System (SSMS), SQL Server Integration System (SSIS)
 - **SQL** (T-SQL)
 - **Excel**: Power Query
-- **Python**: NumPy, Pandas, Matplotlip, Seaborn
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn
