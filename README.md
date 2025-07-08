@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedfa&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedfa" /> </p>
 
-- 🌱 I’m currently learning **Advanced DAX, Advanced SQL and SSIS.**
+- 🌱 I’m currently learning **Microsoft Fabric, Data Warehouse**
 
 - 📫 How to reach me **mohamedfatouh98@yahoo.com**
 
-- 📄 Check my resume [here](https://flowcv.com/resume/rd78owg9md)
+- 📄 Check my resume [here](https://flowcv.com/resume/m3m2sshpcesq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,9 +15,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <a href="">
-    <img width="50" src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" title="Power BI"/>        
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,matplotlib,seaborn,excel,mysql,git,raspberrypi&theme=light" />
-  </a>
-</p>
+- **Power BI**: DAX, Power Query, M Language, Data Modeling
+- **Tableau**
+- **Microsoft SQL Server**: SQL Server Managment System (SSMS), SQL Server Integration System (SSIS)
+- **SQL** (T-SQL)
+- **Excel**: Power Query
+- **Python**: NumPy, Pandas, Matplotlip, Seaborn
